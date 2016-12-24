@@ -59,7 +59,7 @@ import com.android.phone.settings.VoicemailSettingsActivity;
 import com.android.phone.settings.fdn.FdnSetting;
 import com.android.services.telephony.sip.SipUtil;
 
-import org.cyanogenmod.internal.util.PackageManagerUtils;
+import com.android.phone.PackageManagerUtils;
 
 import java.lang.String;
 import java.util.ArrayList;
